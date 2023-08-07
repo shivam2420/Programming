@@ -121,7 +121,7 @@ class Node
 
 
 };
-int main()
+/*int main()
 {
 	Node<int> x;
 	int input;
@@ -159,4 +159,4 @@ int main()
 	}
 	return 0;
 }
-
+*/
